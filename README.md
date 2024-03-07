@@ -89,11 +89,4 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 
 <p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pickup1025&show_icons=true&theme=radical&hide_border=true"/></p>
 
-# Activity 
 
-<p align=""><img align="left" width ="600px" src="https://github-readme-streak-stats.herokuapp.com/?user=pickup1025&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" /></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="1200px">
-</picture>
