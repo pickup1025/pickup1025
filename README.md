@@ -34,7 +34,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 * 🧠  I'm learning Web Development and Programming
 
 
-# Skills & Tools<img src="assets/images/Rocket.png" width="40">
+# Skills & Tools
 <!--* 🖥️  See my portfolio at [My Portfolio](http://arthitdev.github.io/)-->
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
