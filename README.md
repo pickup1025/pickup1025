@@ -24,10 +24,10 @@ Hi ! My name is Phiraphat Damrongniwetwit
 
 
 
-I'm IT Student
+/I'm IT Student/
 --------------
 
-I am currently a third-year Information Technology major at Chiang Rai Rajabhat University in Thailand. My GitHub repository showcases my work from academic projects, personal projects, and other learning experiences.
+I am a recent graduate with a Bachelor's degree in Information Technology major at Chiang Rai Rajabhat University in Thailand. My GitHub repository showcases my work from academic projects, personal projects, and other learning experiences.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [pickupfongrin@gmail.com](mailto:pickupfongrin@gmail.com)
@@ -62,7 +62,7 @@ I am currently a third-year Information Technology major at Chiang Rai Rajabhat 
 **Chiang Rai Rajabhat University**:
   - **Faculty of Digital Technology : Bachelor of Science in information technology**
     - 2021 (Start)
-    - 2024 (Present)
+    - 2025 (Graduated)
 
 <!--# Quote <img src="assets/images/Nerd Face.png" width="35">
 <!--<p align="center"><a><img src="https://quotes-github-readme.vercel.app/api?border=true&type=vertical&theme=tokyonight" alt="Typing SVG" /></a></p> -->
