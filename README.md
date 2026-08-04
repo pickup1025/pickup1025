@@ -24,8 +24,8 @@ Hi ! My name is Phiraphat Damrongniwetwit
 
 
 
-/I'm IT Student/
---------------
+
+
 
 I am a recent graduate with a Bachelor's degree in Information Technology major at Chiang Rai Rajabhat University in Thailand. My GitHub repository showcases my work from academic projects, personal projects, and other learning experiences.
 
