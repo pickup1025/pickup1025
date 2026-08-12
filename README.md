@@ -79,13 +79,13 @@ I am a recent graduate with a Bachelor's degree in Information Technology major 
 <a href="https://www.linkedin.com/in/arthit-lungya-30a29626a" target="_blank"><img src="assets/images/linkedin.png" width="50" height="50" ></a>  
 <a href="https://www.twitter.com/ArthitDev" target="_blank" ><img src="assets/images/X.png" width="50" height="50" ></a></p> -->
 
-# Language 
+<!--# Language -->
 
 <!--<img align="center" height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pickup1025&langs_count=10&title_color=b2336b&&layout=compact&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=141321" />-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pickup1025&layout=compact&langs_count=8&theme=radical&hide_border=true)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pickup1025&layout=compact&langs_count=8&theme=radical&hide_border=true)-->
 
-# Stats 
+<!--# Stats -->
 
 <!-- <p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pickup1025&show_icons=true&theme=radical&hide_border=true"/></p> -->
 
