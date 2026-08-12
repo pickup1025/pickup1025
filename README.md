@@ -87,6 +87,6 @@ I am a recent graduate with a Bachelor's degree in Information Technology major 
 
 # Stats 
 
-<p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pickup1025&show_icons=true&theme=radical&hide_border=true"/></p>
+<!-- <p align=""><img align="center" width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pickup1025&show_icons=true&theme=radical&hide_border=true"/></p> -->
 
 
